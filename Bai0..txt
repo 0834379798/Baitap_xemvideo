@@ -1,0 +1,13 @@
+Gi ?i thi?u
+
+1. H?C THEO TH? T?: JS Basic,html,git,UI Design,CSS
+2. M?C TIÊU
+	BI?T CÁCH PHÂN TÍCH CHIA NH? DESIGN
+	CHUY?N T? design dã h?c sang HTML+CSS
+	T? copy du?c b?t c? giao di?n nào trên web
+3. Ð? ngh?
+	https://jsfiddle.net/
+	Sublime text ho?c code editor khác
+4. Yêu c?u
+	Th?c hành theo bài gi?ng
+	H?c nhóm >2 ng
